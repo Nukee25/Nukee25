@@ -31,7 +31,7 @@ When I step away from the IDE, I like to keep my mind sharp and entertained:
 
 I'm always open to collaborating on open-source projects, discussing the future of edge AI, or just geeking out over Linux setups. 
 
-* 💼 **LinkedIn:** linkedin.com/in/nukee25
+* 💼 **LinkedIn:** www.linkedin.com/in/nukee25
 * 📧 **Email:** kshitijtiwari.india@gmail.com 
 <!--* 🌐 **Portfolio:** [Add your Personal Website URL here]-->
 

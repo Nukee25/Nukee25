@@ -1,4 +1,4 @@
-# Hi there, I'm Kshitij Tiwari
+# Hey there, the name's Kshitij
 
 Welcome to my corner of GitHub! I'm a passionate Software Developer based in Delhi, currently pursuing my B.Tech in Computer Science and Engineering at Galgotias College. I thrive on turning complex problems into elegant, efficient solutions, and I'm always looking for the next big challenge to tackle.
 

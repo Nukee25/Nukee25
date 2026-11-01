@@ -23,7 +23,7 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 ---
 
 ### 🛠️ Technical Skillset
-
+```
 ┌─────────────────────────┬────────────────────────────────────────────────────────┐
 │ Category                │ Technologies & Disciplines                             │
 ├─────────────────────────┼────────────────────────────────────────────────────────┤
@@ -45,7 +45,7 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 │ Hardware & Embedded     │ Sensor Integration, Microcontrollers, Testbenches,     │
 │                         │ Line Followers, Robotic Arms, Spherical Bots           │
 └─────────────────────────┴────────────────────────────────────────────────────────┘
-
+```
 ---
 
 ### 💼 Experience & Leadership

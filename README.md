@@ -91,7 +91,7 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 
 #### 2. Local AI, Computer Vision & Privacy-First Engines
 
-* **[Chitralekha (Chitra Pipeline)](https://github.com/nukee25/chitra)**
+* **[Chitralekha (Chitra Pipeline)](https://github.com/nukee25/chitra-pipeline)**
   * Automated CCTV surveillance and hazard detection engine combining OpenCV temporal frame chunking with real-time YOLOv8 object recognition.
   * Feeds frame context directly to an air-gapped local Qwen model for threat validation and reasoning, backed by a Django and MongoDB API with a React dashboard.
   * *Tech:* `OpenCV`, `YOLOv8`, `Qwen LLM`, `Ollama`, `Django`, `MongoDB`, `React`

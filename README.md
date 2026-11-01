@@ -1,38 +1,161 @@
-# Hey there, the name's Kshitij
+<div align="center">
 
-Welcome to my corner of GitHub! I'm a passionate Software Developer based in Delhi, currently pursuing my B.Tech in Computer Science and Engineering at Galgotias College. I thrive on turning complex problems into elegant, efficient solutions, and I'm always looking for the next big challenge to tackle.
+# Hey There, The Name's Kshitij
+### Systems Engineer • Local AI Architect • Founder @ Kode Insignia
 
-### 👨‍💻 My Journey & What I Do
+[![GitHub](https://img.shields.io/badge/GitHub-nukee25-181717?style=for-the-badge&logo=github)](https://github.com/nukee25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![Fedora](https://img.shields.io/badge/OS-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
+[![Status](https://img.shields.io/badge/Focus-Systems%20%7C%20Local%20AI%20%7C%20High--Perf%20Compute-critical?style=for-the-badge)]()
 
-* 🏢 **Founder @ Kode Insignia:** I founded Kode Insignia as a launchpad for building impactful, scalable software projects. I focus on taking ideas from concept to a full-fledged digital reality.
-* 🧠 **AI & Local LLM Enthusiast:** I have a deep fascination with Artificial Intelligence. Instead of just relying on cloud APIs, I love getting my hands dirty by running and integrating **local LLMs** into practical, privacy-respecting tools. 
-* 🐧 **Linux Power User:** My daily driver is **Fedora Linux**. I strongly believe in the open-source philosophy, love tinkering with my system, and feel most at home working within the terminal.
-* ⚙️ **Problem Solver:** Whether it's optimizing an algorithm in C++ or structuring a robust full-stack web application, I enjoy the entire lifecycle of software engineering.
+<br />
 
-### 🛠️ Tech Stack & Arsenal
+> Computer Science undergraduate at Galgotias College of Engineering & Technology. Focused on low-level compute optimization, air-gapped local LLM orchestrations, distributed client-server systems, and open-source tooling.
 
-* **Core Languages:** C++, Python, JavaScript
-* **Web Development:** Full-Stack frameworks, RESTful API design, HTML5/CSS3
-* **AI & Data:** Local Language Models, LLM tool integration, Scripting
-* **Tools & Environment:** Fedora Linux, Git, Bash/Shell Scripting, Command Line Mastery
+</div>
 
-### 🎮 Beyond the Keyboard
+---
 
-When I step away from the IDE, I like to keep my mind sharp and entertained:
-* 🕹️ **Gaming:** I love immersing myself in video games to unwind and explore new digital worlds.
-* 🦢 **Miniature Origami:** I practice the highly intricate art of miniature origami. It requires intense focus, patience, and precision—skills that translate surprisingly well to debugging complex code!
-<!--
-### 📈 GitHub Stats
+### 📌 Summary
 
-*(Pro tip: You can uncomment and update the link below with your actual username to show live stats)*
- [![Nukee25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nukee25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+I build deterministic, privacy-first software spanning POSIX socket architectures, low-latency computational engines, and edge-native AI pipelines. As the Founder and Technical Lead of **Kode Insignia**, I orchestrate developer sprints, lead hardware-in-the-loop robotics workshops, and build hardened, containerized microservice architectures. My workflow lives entirely in Linux (Fedora), with a focus on C++ systems, local model deployment (Ollama/ggml), and full-stack systems with zero exposed attack surface.
 
-### 📫 Let's Connect!
+---
 
-I'm always open to collaborating on open-source projects, discussing the future of edge AI, or just geeking out over Linux setups. 
+### 🛠️ Technical Skillset
 
-* 💼 **LinkedIn:** www.linkedin.com/in/nukee25
-* 📧 **Email:** kshitijtiwari.india@gmail.com 
-<!--* 🌐 **Portfolio:** [Add your Personal Website URL here]-->
+```
+┌─────────────────────────┬────────────────────────────────────────────────────────┐
+│ Category                │ Technologies & Disciplines                             │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Core & Systems          │ C, Modern C++ (C++17/20), Python 3, POSIX Threads,     │
+│                         │ Berkeley Sockets, Bash, Linux Systems (Fedora)         │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Machine Learning & CV   │ Ollama, ggml / GGUF 4-bit Quantization, Local LLMs,    │
+│                         │ YOLOv8, OpenCV, Q-Learning (Reinforcement Learning)    │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Backend & Architecture  │ Django, Django REST Framework, FastAPI, Express.js,    │
+│                         │ Microservice Isolation, Client-Server Architectures    │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Frontend & Visuals      │ React.js, Next.js, TypeScript, Tailwind CSS,           │
+│                         │ Dynamic JSON-Schema Dashboards                         │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Databases & Infra       │ Docker, Docker Compose, Nginx (Zero-Port Reverse Proxy)│
+│                         │ MariaDB, MongoDB, Git, CI/CD Automations               │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Hardware & Embedded     │ Sensor Integration, Microcontrollers, Testbenches,     │
+│                         │ Line Followers, Robotic Arms, Spherical Bots           │
+└─────────────────────────┴────────────────────────────────────────────────────────┘
+```
 
-*"First, solve the problem. Then, write the code."*
+---
+
+### 💼 Experience & Leadership
+
+#### 🏛️ Founder & Technical Lead — **Kode Insignia** *(2025 – Present)*
+* Architected end-to-end project roadmaps, microservice deployments, and developer tooling across the organization.
+* Conducted offline technical training sessions including the **Kode Insignia Robotics Workshop**, mentoring students through hands-on fabrication and firmware for Line Followers, Robotic Arms, and Spherical Bots.
+* Orchestrated a 20-team virtual Pitchathon in collaboration with **E-Cell IIT Bombay** and **Eureka!**.
+
+#### 🌐 Open Source Contributor — **GirlScript Summer of Code (GSSoC 2026)** *(2026)*
+* Contributed to the **Open Source** and **AI/Agents** tracks, shipping modular features, bug fixes, and documentation across ecosystem repos.
+
+#### ⚡ Open Source Contributor — **Epic Games / Unreal Engine Ecosystem** *(2026)*
+* Contributed to runtime pipeline profiling, low-level engine compute performance, and resource benchmarking tools.
+
+#### 🤝 Community & Campus Leadership
+* **Campus Lead & Contributor** — *Open Source Connect India (2026)*: Mentoring student developers in Git hygiene, open-source standards, and collaboration.
+* **Campus Ambassador** — *E-Cell IIT Bombay (2026)*: Driving student entrepreneurship initiatives and national competition roadshows.
+* **Regional Coordinator & Ambassador** — *Techfest IIT Bombay (2026)*: Managing regional technical outreach, logistics, and student participation.
+* **Campus Ambassador** — *Rendezvous IIT Delhi (2026)*: Coordinating institute outreach and festival operations.
+
+---
+
+### 🚀 Featured Engineering Projects
+
+#### 1. Systems & Low-Level Engineering
+
+* **[Sanchaar-CLI](https://github.com/nukee25/Sanchaar-CLI)**
+  * A lightweight, cross-platform CLI chat application implemented in Modern C++ using Berkeley Sockets and POSIX threads (`pthreads`).
+  * Features concurrent non-blocking socket handling, ANSI terminal styling, and robust client-server heartbeat isolation.
+  * *Tech:* `C++17`, `POSIX Threads`, `Sockets API`, `Linux`
+
+* **MatrixC, MatrixPy & PolynomialPy**
+  * High-performance numerical libraries designed for linear algebra and polynomial computations without heavy external dependencies.
+  * Implemented cache-friendly memory layouts in C and optimized algorithmic routines in Python.
+  * *Tech:* `C`, `Python`, `Algorithms`, `Linear Algebra`
+
+* **Runtime Profiling & Engine Compute Optimization**
+  * Micro-benchmarking suites and compute analysis tools targeted at profiling runtime frame pipelines and memory hotspots.
+  * *Tech:* `C++`, `Profiling Tools`, `Compute Optimization`
+
+---
+
+#### 2. Local AI, Computer Vision & Privacy-First Engines
+
+* **[Chitralekha (Chitra Pipeline)](https://github.com/nukee25)**
+  * Automated CCTV surveillance and hazard detection engine combining OpenCV temporal frame chunking with real-time YOLOv8 object recognition.
+  * Feeds frame context directly to an air-gapped local Qwen model for threat validation and reasoning, backed by a Django and MongoDB API with a React dashboard.
+  * *Tech:* `OpenCV`, `YOLOv8`, `Qwen LLM`, `Ollama`, `Django`, `MongoDB`, `React`
+
+* **[Vaidya](https://github.com/nukee25)**
+  * Privacy-preserving clinical decision support system ensuring total data sovereignty by keeping health data local.
+  * Leverages local LLM inference over Ollama paired with deterministic algorithmic health scoring, MariaDB, and a hardened Django backend.
+  * *Tech:* `Ollama`, `MariaDB`, `Django`, `Local Inference`, `Health-Tech`
+
+* **Minesweeper Reinforcement Learning Agent**
+  * An autonomous agent built from scratch using custom Q-learning strategies to solve variable-grid Minesweeper without external heuristics.
+  * *Tech:* `Python`, `Reinforcement Learning`, `Q-Learning`, `NumPy`
+
+* **FactChecker**
+  * An automated claim-verification engine migrated from cloud APIs to an offline, privacy-first local LLM runner via Ollama.
+  * *Tech:* `Python`, `Ollama`, `NLP`, `Information Retrieval`
+
+---
+
+#### 3. Full-Stack Architectures & Research Systems
+
+* **[Swaraj Setu](https://github.com/nukee25)**
+  * Production-grade civic grievance management and prioritization system.
+  * Integrates an offline NLP microservice using Ollama for automatic ticket categorization and routing, a Django REST backend, MongoDB, and React, fully orchestrated via Docker Compose behind a zero-exposed-port Nginx reverse proxy.
+  * *Tech:* `React`, `Django REST Framework`, `Docker Compose`, `Nginx`, `MongoDB`, `Ollama`
+
+* **Dynamic Intelligent Dashboard Generator**
+  * Engine that consumes raw, arbitrarily nested JSON schemas and dynamically renders structured, responsive React analytics interfaces.
+  * *Tech:* `React.js`, `TypeScript`, `Schema Parsers`, `Tailwind CSS`
+
+* **NewsFront**
+  * Responsive, mobile-first feed reader that ingests multi-source data streams and provides on-device automated text summarization.
+  * *Tech:* `JavaScript`, `REST APIs`, `Web Components`, `CSS3`
+
+* **Urban Infrastructure Proposals: Dilli360 & Edge Road Quality Monitoring**
+  * *Dilli360:* A smart transit model coordinating multi-modal transport with the Delhi Metro Rail Corporation (DMRC) network to balance heritage site foot traffic.
+  * *Edge Road Quality Monitoring:* Architectural design for edge-mounted camera units running spatial graphs to detect and map asphalt degradation in real time.
+
+---
+
+### 🏆 Honors & Recognition
+
+* 🏅 **National Finalist** — *India Innovates Hackathon* (Bharat Mandapam, New Delhi)
+* 🏆 **Winner** — *GeeksforGeeks x Nerds Room HackFest*
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nukee25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kshitij's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukee25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nukee25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision on Fedora Linux. Reach out at your preferred channel for collaborations!</sub>
+</div>

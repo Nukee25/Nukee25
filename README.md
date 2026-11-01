@@ -24,7 +24,6 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 
 ### 🛠️ Technical Skillset
 
-```
 ┌─────────────────────────┬────────────────────────────────────────────────────────┐
 │ Category                │ Technologies & Disciplines                             │
 ├─────────────────────────┼────────────────────────────────────────────────────────┤
@@ -46,7 +45,6 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 │ Hardware & Embedded     │ Sensor Integration, Microcontrollers, Testbenches,     │
 │                         │ Line Followers, Robotic Arms, Spherical Bots           │
 └─────────────────────────┴────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -93,12 +91,12 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 
 #### 2. Local AI, Computer Vision & Privacy-First Engines
 
-* **[Chitralekha (Chitra Pipeline)](https://github.com/nukee25)**
+* **[Chitralekha (Chitra Pipeline)](https://github.com/nukee25/chitra)**
   * Automated CCTV surveillance and hazard detection engine combining OpenCV temporal frame chunking with real-time YOLOv8 object recognition.
   * Feeds frame context directly to an air-gapped local Qwen model for threat validation and reasoning, backed by a Django and MongoDB API with a React dashboard.
   * *Tech:* `OpenCV`, `YOLOv8`, `Qwen LLM`, `Ollama`, `Django`, `MongoDB`, `React`
 
-* **[Vaidya](https://github.com/nukee25)**
+* **[Vaidya](https://github.com/nukee25/vaidya)**
   * Privacy-preserving clinical decision support system ensuring total data sovereignty by keeping health data local.
   * Leverages local LLM inference over Ollama paired with deterministic algorithmic health scoring, MariaDB, and a hardened Django backend.
   * *Tech:* `Ollama`, `MariaDB`, `Django`, `Local Inference`, `Health-Tech`
@@ -115,7 +113,7 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 
 #### 3. Full-Stack Architectures & Research Systems
 
-* **[Swaraj Setu](https://github.com/nukee25)**
+* **[Swaraj Setu](https://github.com/nukee25/swaraj-setu)**
   * Production-grade civic grievance management and prioritization system.
   * Integrates an offline NLP microservice using Ollama for automatic ticket categorization and routing, a Django REST backend, MongoDB, and React, fully orchestrated via Docker Compose behind a zero-exposed-port Nginx reverse proxy.
   * *Tech:* `React`, `Django REST Framework`, `Docker Compose`, `Nginx`, `MongoDB`, `Ollama`
@@ -138,21 +136,6 @@ I build deterministic, privacy-first software spanning POSIX socket architecture
 
 * 🏅 **National Finalist** — *India Innovates Hackathon* (Bharat Mandapam, New Delhi)
 * 🏆 **Winner** — *GeeksforGeeks x Nerds Room HackFest*
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nukee25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kshitij's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukee25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nukee25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-
-</div>
 
 ---
 
